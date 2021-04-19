@@ -1,0 +1,5 @@
+point_of_payment/__pycache__/*.pyc
+point_of_payment/models/__pycache__/*.pyc
+point_of_payment/wizards/__pycache__/*.pyc
+pop_payment_group/__pycache__/*.pyc
+pop_payment_group/models/__pycache__/*.pyc
